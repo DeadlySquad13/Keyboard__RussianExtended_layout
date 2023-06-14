@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\russian_extended.kpj</path>
+    <file ID="id_6b4524e0ca8d0309662b415605ed467d" Expanded="1"/>
+    <file ID="id_4f4dd4e2e2ba53cd2b57d9d81317fc89" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_6b4524e0ca8d0309662b415605ed467d</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\russian_extended.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_4f4dd4e2e2ba53cd2b57d9d81317fc89</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\russian_extended.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4a582623683350128daa14721620a70f</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\russian_extended.keyboard_info</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_4a9f388ef64abc79ce02db7abc672a2b</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\russian_extended.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5a742b4bd210c9a1883916e36837195c</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\..\build\russian_extended.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ff922f4316878888d9f957d8db918f5e</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\..\build\russian_extended.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c346bd25b4675850d58eff3d7c9c44f5</ID>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\RussianExtended.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>russian_extended.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\russian_extended.keyboard_info</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>russian_extended.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\russian_extended.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
