@@ -98,13 +98,5 @@
       <FileType>.htm</FileType>
       <ParentFileID>id_4f4dd4e2e2ba53cd2b57d9d81317fc89</ParentFileID>
     </File>
-    <File>
-      <ID>id_c346bd25b4675850d58eff3d7c9c44f5</ID>
-      <Filename>RussianExtended.kmn</Filename>
-      <Filepath>RussianExtended.kmn</Filepath>
-      <FileVersion>1.0</FileVersion>
-      <FileType>.kmn</FileType>
-      <Details/>
-    </File>
   </Files>
 </KeymanDeveloperProject>

@@ -64,31 +64,25 @@
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
       <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\readme.htm</FullPath>
     </FileState>
-    <FileState>
-      <ID>id_c346bd25b4675850d58eff3d7c9c44f5</ID>
-      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\RussianExtended.kmn</FullPath>
-      <IDEState>
-        <LayoutDisplay102Key>0</LayoutDisplay102Key>
-        <DebugDefaultFont>1</DebugDefaultFont>
-        <DebugFont>Consolas|-9|   |0</DebugFont>
-        <CodeFont>Consolas|-9|   |0</CodeFont>
-        <CharFont>Consolas|-9|   |0</CharFont>
-      </IDEState>
-      <Debug>False</Debug>
-    </FileState>
   </FileStates>
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>russian_extended.keyboard_info</Filename>
-      <FileType>.keyboard_info</FileType>
-      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\russian_extended.keyboard_info</FullPath>
+      <Filename>russian_extended.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\russian_extended.kps</FullPath>
     </File>
     <File>
       <ID>id_MRU1</ID>
       <Filename>russian_extended.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\source\russian_extended.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>russian_extended.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\ds13\Documents\Keyman Developer\Projects\russian_extended\russian_extended.keyboard_info</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
