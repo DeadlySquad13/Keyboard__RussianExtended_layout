@@ -9,7 +9,7 @@ Russian Extended generated from template
 
 Installation
 -----------
-1. Install [Keyman](1) on your computer.
+1. Install [Keyman][1] on your computer.
 2. Download `/build/*.kpx` file from this repository. If you want only keyboard
    without additional files like font and onscreen keyboard, download
    `/build/*.kmp`.
@@ -18,7 +18,7 @@ Installation
 
 Links
 -----
-1: <https://keyman.com/downloads/> 'Keyman downloads'
+[1]: <https://keyman.com/downloads/> 'Keyman downloads'
 
 Copyright
 ---------
