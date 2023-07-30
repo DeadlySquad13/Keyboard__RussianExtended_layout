@@ -18,7 +18,7 @@ Installation
 
 Links
 -----
-1: <https://keyman.com/downloads/> 'Keyman downloads'
+[1]: <https://keyman.com/downloads/> 'Keyman downloads'
 
 Copyright
 ---------
